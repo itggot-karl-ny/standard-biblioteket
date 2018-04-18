@@ -5,5 +5,3 @@ def is_negative(num)
         output = false
     end
 end
-
-p is_negative(6)

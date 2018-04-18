@@ -5,5 +5,3 @@ def is_odd(num)
         output = true
     return output
 end
-
-p is_odd(9)

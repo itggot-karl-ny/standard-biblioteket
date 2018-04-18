@@ -5,5 +5,3 @@ def absolute(num)
         output = num * -1
     end
 end
-
-p absolute(-10)

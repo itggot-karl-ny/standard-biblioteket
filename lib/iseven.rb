@@ -6,4 +6,3 @@ def is_even(num)
     return output
 end
 
-p is_even(9)
