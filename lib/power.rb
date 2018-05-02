@@ -1,14 +1,15 @@
 def power(bas, expo)
     i = 1
-
+    num = bas
     while i != expo
-        num = bas * bas
+        num = bas * num
         i +=1
+        p num
     end
     return num
 end
 
-p power(3, 2)
+p power(5, 3)
 
 #public: Powers an integer to an exponent
 #
